@@ -39,3 +39,7 @@
 
 # debug information files
 *.dwo
+
+# my deleted files
+0-MultiProcessProgramming/*
+
